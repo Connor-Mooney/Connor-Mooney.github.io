@@ -1,3 +1,6 @@
 [submodule "assets/Talks"]
 	path = assets/Talks
 	url = https://github.com/Connor-Mooney/Talks
+[submodule "assets/docs"]
+	path = assets/docs
+	url = https://github.com/Connor-Mooney/docs
