@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Research.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:tmooney2@gmu.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:tmooney@umd.edu"}
   - {title: Github, icon: github, url: "https://github.com/Connor-Mooney"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
