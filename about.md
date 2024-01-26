@@ -15,7 +15,7 @@ Hi! My name is Connor. I'm a second year physics PhD student at the University o
 <script type="text/javascript" src="https://arxiv.org/js/myarticles.js"></script>
 
 <details>
-<summary>**Click to show/hide Publications**</summary>
+<summary markdown="1">**Click to show/hide Publications**</summary>
 
 **See my [Google Scholar][google-scholar], [arXiv][arxiv]**
 
