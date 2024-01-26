@@ -16,8 +16,11 @@ Hi! My name is Connor. I'm a second year physics PhD student at the University o
 <details>
 <summary markdown="0">Click to show/hide Publications</summary>
 
-**See my [Google Scholar](https://scholar.google.com/citations?user=Mratg9YAAAAJ&hl=en), [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Mooney,+T+C)**
+**See my [Google Scholar][google-scholar], [arXiv][arxiv]**
 
 <div id="arxivfeed"></div>
 
 </details>
+
+[google-scholar]: https://scholar.google.com/citations?user=Mratg9YAAAAJ&hl=en
+[arxiv]: https://arxiv.org/search/quant-ph?searchtype=author&query=Mooney,+T+C
