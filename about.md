@@ -5,7 +5,7 @@ layout: page
 ---
 {::options parse_block_html="true" /}
 
-Hi! My name is Connor. I'm a second year physics PhD student at the University of Maryland, College Park. I work with Alexey Gorshkov and Andrew Childs. My research interests lie at the intersection of mathematical physics, condensed matter theory, and quantum information science.
+Hi! My name is Connor. I'm a second year physics PhD student at the University of Maryland, College Park. I work with [Alexey Gorshkov][gorshkov] and [Andrew Childs][achilds]. My research interests lie at the intersection of mathematical physics, condensed matter theory, and quantum information science.
 
 
 <script type="text/javascript">
@@ -17,7 +17,7 @@ Hi! My name is Connor. I'm a second year physics PhD student at the University o
 <details>
 <summary markdown="0">Click to show/hide Publications</summary>
 
-**See my** [Google Scholar][google-scholar], [arXiv][arxiv]
+**See my [Google Scholar][google-scholar], [arXiv][arxiv]**
 
 <div id="arxivfeed"></div>
 
@@ -25,3 +25,5 @@ Hi! My name is Connor. I'm a second year physics PhD student at the University o
 
 [google-scholar]: https://scholar.google.com/citations?user=Mratg9YAAAAJ&hl=en
 [arxiv]: https://arxiv.org/search/quant-ph?searchtype=author&query=Mooney,+T+C
+[gorshkov]: https://jqi.umd.edu/people/alexey-gorshkov
+[achilds]: https://www.cs.umd.edu/~amchilds/
