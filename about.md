@@ -5,7 +5,7 @@ layout: page
 ---
 {::options parse_block_html="true" /}
 
-Hi! My name is Connor. I'm a second year physics PhD student at the University of Maryland, College Park. I work with [Alexey Gorshkov][gorshkov] and [Andrew Childs][achilds]. My research interests lie at the intersection of mathematical physics, condensed matter theory, and quantum information science.
+Hi! My name is Connor. I'm a second year physics PhD student at the University of Maryland, College Park. I work with [Alexey Gorshkov][gorshkov] and [Andrew Childs][achilds]. My research interests lie at the intersection of mathematical physics, condensed matter theory, and quantum information science. [Here][CV] is my CV.
 
 
 <script type="text/javascript">
@@ -21,9 +21,12 @@ Hi! My name is Connor. I'm a second year physics PhD student at the University o
 
 <div id="arxivfeed"></div>
 
+*Not included:* My senior thesis, ["Equivariant de Rham Cohomology, Integration, and Localization: A Whirlwind Tour"][thesis]
 </details>
 
 [google-scholar]: https://scholar.google.com/citations?user=Mratg9YAAAAJ&hl=en
 [arxiv]: https://arxiv.org/search/quant-ph?searchtype=author&query=Mooney,+T+C
 [gorshkov]: https://jqi.umd.edu/people/alexey-gorshkov
 [achilds]: https://www.cs.umd.edu/~amchilds/
+[thesis]: https://connor-mooney.github.io/assets/docs/Senior_Thesis.pdf
+[CV]: https://connor-mooney.github.io/assets/curriculumvitae.pdf
