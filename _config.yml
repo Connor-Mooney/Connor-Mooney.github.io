@@ -15,9 +15,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "about.md", title: "About me"}
-  - {file: "Research.md"}
+ # - {file: "index.html"}
+  - {file: "about.md"} #, title: "About me"}
+  - {file: "Research.md", title: "Research"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:tmooney@umd.edu"}
