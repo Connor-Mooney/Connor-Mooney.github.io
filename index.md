@@ -8,7 +8,6 @@ title: "Home"
   {% include about.md %}
   {% include home.html %}
 {% else %}
-<div markdown ="1" >
-  {% include about.md %}</div>
+  {% include about.md %}
   {% include archive.html title="Posts" %}
 {% endif %}
