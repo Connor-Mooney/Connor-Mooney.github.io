@@ -1,7 +1,7 @@
 {::options parse_block_html="true" /}
 
 <div markdown = "1">
-![headshot](/assets/smaller_alto.png){:width="60%" .align-left}
+![headshot](/assets/smaller_alto.png){:width="40%" .align-left}
 
 Hi! My name is Connor. I'm a second year physics PhD student at the University of Maryland, College Park. I work with [Alexey Gorshkov][gorshkov] and [Andrew Childs][achilds]. My research interests lie at the intersection of mathematical physics, condensed matter theory, and quantum information science. [Here][CV] is my CV. </div>
 
