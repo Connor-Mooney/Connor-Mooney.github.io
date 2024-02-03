@@ -31,4 +31,4 @@ Hi! My name is Connor, and this is my personal website. I'm a second year physic
 [achilds]: https://www.cs.umd.edu/~amchilds/
 [thesis]: https://connor-mooney.github.io/assets/docs/Senior_Thesis.pdf
 [CV]: https://connor-mooney.github.io/assets/curriculumvitae.pdf
-[Research]: Research.md
+[Research]: https://connor-mooney.github.io/research
