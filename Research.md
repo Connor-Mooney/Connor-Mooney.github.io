@@ -20,7 +20,7 @@ dynamics, eigenstate structure, and the performance of quantum algorithms, such 
 
 ### Intermediate-Time (A)diabatic theorems
 ![intermediate timescale](/assets/Indermediate_adiabatic.png){:width="25%" : style="padding:0.7em; float:left"} 
-At slow-enough timescales, quantum dynamics starting in the ground state are rigorously governed by the adiabatic theorem, which guarantees approximate spectral transport, with error (heuristically) scaling like $\sim(\Gamma^2 T)^{-1}$ where $\Gamma$ is the spectral gap. These guarantees have been harnessed 
+At slow-enough timescales, quantum dynamics starting in the ground state are rigorously governed by the adiabatic theorem, which guarantees approximate spectral transport, with error (heuristically) scaling like \(\sim(\Gamma^2 T)^{-1}\) where \(\Gamma\) is the spectral gap. These guarantees have been harnessed 
 
 
 ### Lefschetz Thimble Monte Carlo for Spin Systems
