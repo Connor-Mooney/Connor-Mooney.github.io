@@ -1,10 +1,10 @@
 ---
 title:  "Research"
 permalink: "/research/"
+mathjax: true
 layout: page
 ---
 {::options parse_block_html="true" /}
-usemathjax: true
 
 ## Overview
 
