@@ -8,17 +8,22 @@ layout: page
 
 ## Overview
 
-I am broadly interested in the intersection of condensed matter physics, quantum information science, and condensed matter physics. A few more specific areas:
-* Results understanding the effects of locality constraints on 
-dynamics, eigenstate structure, and the performance of quantum algorithms, such as extended Lieb-Robinson bounds and state-transfer protocols
-* Rigorous results in quantum dynamics, such as extensions of the adiabatic theorem
-* Results using tools from functional analysis and operator algebrae to analyze many-body quantum systems
+I am broadly interested in the intersection of condensed matter physics, quantum information science, and mathematical physics. A few more specific questions I am interested in are:
+* What are the effects of locality constraints on 
+dynamics, eigenstate structure, and the performance of quantum algorithms?
+  * How can we extend Lieb-Robinson bounds? How can we strengthen them in more restricted cases?
+  * How can we construct state-transfer protocols that saturate these extended/strengthened bounds?
+* What rigorous results can we bring to bear on understanding quantum dynamics?
+  * How can we extend, i.e., the adiabatic theorem to understand dynamics outside of that limit?
+* How can we use tools from functional analysis and operator algebrae to analyze many-body quantum systems?
+  * How does the algebraic approach to QFT clarify the discussion of quantum phases of matter?
+
 
 ## Previous Work
 
 ### Projective Toric Designs
 ![Torus design](/assets/Torus_design.png){:width="30%" : style="padding:0.7em; float:left"}
-Designs are sets of points in a probability space which capture the behaviour of the total space up to some level of complexity; more explicitly, averaging a sufficiently simple function over the points of a design equals the function's average over the whole probability space. Designs are of interest to the QIS community for their applicability to a wide variety of subfields, such as quantum sensing, tomography, cryptography, and error correction. In joint work with [Joseph Iosue][iosue], [Adam Ehrenberg][ehrenberg], and [Alexey Gorshkov][gorshkov], we investigated a new type of design, a toric design, which is in some sense a design on the phase information of the space of quantum states. They can be combined with designs on the unit simplex (the amplitude information) to construct quantum state designs. We found that the problem of constructing minimal toric designs was related to open questions in the field of additive number theory, specifically regarding notoriously unstructured objects called Sidon sets, as well as the study of mutually unbiased bases. See our paper [here][toruspaper]
+Designs are sets of points in a probability space which capture the behaviour of the total space up to some level of complexity; more explicitly, averaging a sufficiently simple function over the points of a design equals the function's average over the whole probability space. Designs are of interest to the QIS community for their applicability to a wide variety of subfields, such as quantum sensing, tomography, cryptography, and error correction. In joint work with [Joseph Iosue][iosue], [Adam Ehrenberg][ehrenberg], and [Alexey Gorshkov][gorshkov], we investigated a new type of design, a toric design, which is in some sense a design on the phase information of the space of quantum states. They can be combined with designs on the unit simplex (the amplitude information) to construct quantum state designs. We found that the problem of constructing minimal toric designs was related to open questions in the field of additive number theory, specifically regarding notoriously unstructured objects called Sidon sets, as well as the study of mutually unbiased bases. See our paper [here][toruspaper].
 
 ### Intermediate-Time (A)diabatic theorems
 ![intermediate timescale](/assets/Indermediate_adiabatic.png){:width="30%" : style="padding:0.7em; float:left"} 
