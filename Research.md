@@ -14,7 +14,7 @@ dynamics, eigenstate structure, and the performance of quantum algorithms?
   * How can we extend Lieb-Robinson bounds? How can we strengthen them in more restricted cases?
   * How can we construct state-transfer protocols that saturate these extended/strengthened bounds?
 * What rigorous results can we bring to bear on understanding quantum dynamics?
-  * How can we extend, i.e., the adiabatic theorem to understand dynamics outside of that limit?
+  * How can we extend the adiabatic theorem to understand dynamics outside of that limit, such as those seen in diabatic annealing?
 * How can we use tools from functional analysis and operator algebrae to analyze many-body quantum systems?
   * How does the algebraic approach to QFT clarify the discussion of quantum phases of matter?
 
