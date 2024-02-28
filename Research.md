@@ -8,7 +8,7 @@ layout: page
 
 ## Overview
 
-I am broadly interested in the intersection of condensed matter physics, quantum information science, and mathematical physics. A few more specific questions I am interested in are:
+I am broadly interested in the intersection of condensed matter physics, quantum information science, and mathematical physics. Some more specific questions I am interested in are:
 * What are the effects of locality constraints on 
 dynamics, eigenstate structure, and the performance of quantum algorithms?
   * How can we extend Lieb-Robinson bounds? How can we strengthen them in more restricted cases?
@@ -17,7 +17,10 @@ dynamics, eigenstate structure, and the performance of quantum algorithms?
   * How can we extend the adiabatic theorem to understand dynamics outside of that limit, such as those seen in diabatic annealing?
 * How can we use tools from functional analysis and operator algebrae to analyze many-body quantum systems?
   * How does the algebraic approach to QFT clarify the discussion of quantum phases of matter?
-
+* How can we use quantum computers to better understand physical phenomena?
+* What are the underlying complexity-theoretic properties of quantum many-body systems?
+  
+This list is by no means exhaustive.
 
 ## Previous Work
 
