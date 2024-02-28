@@ -37,6 +37,8 @@ However, while the adiabatic theorem serves as a rigorous bound, in some cases, 
 
 ### Lefschetz Thimble Monte Carlo for Spin Systems
 
+A widely used class of classical algorithms for simulating quantum many body sytems is quantum Monte Carlo (QMC). QMC works remarkably well for some quantum systems, but when a system has what is called a sign problems, where the quasiprobabilities it samples oscillate to rapidly in phase, it struggles, having the run-time required to keep constant relative error scaling exponentially with inverse temperature and particle number. It is known that the sign problem is NP-hard, but nevertheless heuristic mitigation strategies can be applied to specific systems, sometimes to remarkable effect. One such mitigation strategy is called Lefschetz Thimble Monte Carlo (LTMC), which maps the original integration manifold onto combinations of stationary phase manifolds, each of which have no sign problem, and samples from them. This method is designed to work for state spaces with continuous bases, such as position, but they don’t readily apply to discrete ones, such as spin. In joint work with [Lucas Brady][brady], [Jacob Bringewatt][bringewatt], and [Neill Warrington][warrington], we worked to apply LTMC to spin systems and apply it to some basic spin systems as a proof-of concept. Along the way, we also found numeric verification for the fact that the standard spin-coherent state path integral's continuum limit does not correspond to the partition function in many basic cases. Se our paper [here][ltmcpaper].
+
 [jarret]: https://science.gmu.edu/directory/michael-jarret
 [bringewatt]: https://www.jacobbringewatt.com
 [gorshkov]: https://jqi.umd.edu/people/alexey-gorshkov
@@ -44,3 +46,6 @@ However, while the adiabatic theorem serves as a rigorous bound, in some cases, 
 [iosue]: https://jtiosue.github.io
 [adiabaticpaper]: https://arxiv.org/abs/2303.13478
 [toruspaper]: https://arxiv.org/abs/2311.13479
+[warrington]: https://physics.mit.edu/faculty/neill-warrington/
+[brady]: https://scholar.google.com/citations?user=t37LwMQAAAAJ&hl=en
+[ltmcpaper]: https://arxiv.org/abs/2110.10699
