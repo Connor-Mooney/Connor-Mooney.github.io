@@ -14,7 +14,8 @@ Hi! My name is Connor. I'm a physics PhD candidate at the University of Maryland
 </script>
 <script type="text/javascript" src="https://arxiv.org/js/myarticles.js"></script>
 
-<b>Publications</b>
+## Publications
+
 
 **See my [Google Scholar][google-scholar], [arXiv][arxiv]**
 
