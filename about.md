@@ -19,7 +19,7 @@ Hi! My name is Connor. I'm a physics PhD candidate at the University of Maryland
 
 **See my [Google Scholar][google-scholar], [arXiv][arxiv]**
 
-<div id="arxivfeed"></div>
+<!--<div id="arxivfeed"></div>-->
 
 *Not included:* My senior thesis, ["Equivariant de Rham Cohomology, Integration, and Localization: A Whirlwind Tour"][thesis]
 
