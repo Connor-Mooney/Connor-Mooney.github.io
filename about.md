@@ -5,7 +5,7 @@ layout: page
 ---
 {::options parse_block_html="true" /}
 
-Hi! My name is Connor. I'm a physics PhD candidate at the University of Maryland, College Park. I work with [Alexey Gorshkov][gorshkov] and [Andrew Childs][achilds]. My research interests lie at the intersection of mathematical physics, condensed matter theory, and quantum information science. [Here][CV] is my CV.
+Hi! My name is Connor. I'm a physics PhD candidate at the University of Maryland. I work with [Alexey Gorshkov][gorshkov] and [Andrew Childs][achilds]. My research interests lie at the intersection of mathematical physics, condensed matter theory, and quantum information science. [Here][CV] is my CV.
 
 
 <script type="text/javascript">
