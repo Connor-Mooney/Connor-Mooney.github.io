@@ -14,7 +14,6 @@ Hi! My name is Connor. I'm a physics PhD candidate at the University of Maryland
 </script>
 <script type="text/javascript" src="https://arxiv.org/js/myarticles.js"></script>
 
-<details>
 <summary markdown="0"><b>Publications</b></summary>
 
 **See my [Google Scholar][google-scholar], [arXiv][arxiv]**
@@ -22,7 +21,6 @@ Hi! My name is Connor. I'm a physics PhD candidate at the University of Maryland
 <div id="arxivfeed"></div>
 
 *Not included:* My senior thesis, ["Equivariant de Rham Cohomology, Integration, and Localization: A Whirlwind Tour"][thesis]
-</details>
 
 [google-scholar]: https://scholar.google.com/citations?user=Mratg9YAAAAJ&hl=en
 [arxiv]: https://arxiv.org/search/quant-ph?searchtype=author&query=Mooney,+T+C
