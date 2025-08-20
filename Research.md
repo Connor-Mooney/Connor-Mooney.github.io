@@ -25,12 +25,12 @@ This list is by no means exhaustive.
 ## Previous Work
 
 ### Complexity of Thermalization
-
+![thermalization](/assets/relaxation.png){:width="30%" : style="padding:0.7em; float:left"} 
 One of the fundamental questions of condensed matter physics is understanding how systems thermalize, that is, how their dynamics transition from being influenced by their initial conditions to that described by equilibrium statistical mechanics. This is well understood in the classical setting, but for closed quantum systems, there is still quite a bit of fundamental work to be done. Our work analyzes the thermalization of open quantum systems from the perspective of computational complexity theory. We build off a recent result proving the undecidability of thermalization in the thermodynamic limit, showing PSPACE completeness of the lab-relevant setting of systems with finite size. See our paper [here][thermpaper].
 
 
 ### Time-Independent Lieb Robinson
-
+![time independent](/assets/timeindclock.png){:width="30%" : style="padding:0.7em; float:left"} 
 Lieb Robinson bounds serve as emergent limitations on the speed of information propagation in non-relativistic quantum many-body systems, and are indispensable tools for proving many results in mathematical physics. To establish tightness of the bounds, we can construct protocols that propagate information in a way that saturates them. The proof of the Lieb-Robinson bound makes no assumptions on the time-dependence of the system, and many of the protocols used to show tightness are highly time-dependent. This leads to a natural question: can we saturate these Lieb-Robinson bounds with time-independent protocols, or are the Lieb-Robinson bounds for time-independent systems asymptotically tighter?   
 
 In two papers, we begin to answer this question, giving evidence that time-independent systems propagate information as quickly as their time-dependent counterparts. In the first paper, we engineer state transfer protocols that saturate the Lieb-Robinson bounds for free-particle systems with power-law decaying coefficients. In the second, we use a modified clock construction to make pre-existing optimal time-dependent protocols time-independent, at a cost of a super-extensively growing (logarithmic in system size per qubit) number of ancillary qubits. Both of these settings are able to saturate the Lieb-Robinson bound with time-independent protocols, suggesting that we should be able to do so as well in the general case. See our two papers [here][timeindpaperone] and [here][timeindpapertwo].
