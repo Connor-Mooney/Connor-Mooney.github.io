@@ -19,8 +19,9 @@ dynamics, eigenstate structure, and the performance of quantum algorithms?
   * How does the algebraic approach to QFT clarify the discussion of quantum phases of matter?
 * How can we use quantum computers to better understand physical phenomena?
 * What are the underlying complexity-theoretic properties of quantum many-body systems?
+* How can we use quantum computers to solve algebraic problems?
   
-This list is by no means exhaustive.
+This list is by no means exhaustive, nor is it ordered in any particular way.
 
 ## Previous Work
 
